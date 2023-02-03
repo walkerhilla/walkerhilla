@@ -19,8 +19,8 @@
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walkerhilla&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=walkerhilla&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api?username=walkerhilla&show_icons=true">
     <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=walkerhilla)](https://solved.ac/walkerhilla)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
 </div>
